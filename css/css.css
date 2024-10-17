@@ -1,0 +1,164 @@
+body {
+	background-color: black;
+}
+
+
+.netflixinicio {
+	width: 17%;
+	margin-top: -3%;
+}
+
+
+.botaoinicio{
+	background-color: Transparent;
+	color: white;
+	border: 1px solid white;
+	border-radius: 3px;
+	font-size: .8125rem;
+    width: auto;
+    line-height: initial;
+    padding-top: 0.35rem;
+    padding-right: 1.3rem;
+    padding-bottom: 0.35rem;
+    padding-left: 1.3rem;
+    margin-top: -1.0rem;
+    margin-right: 0.625rem;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    min-height: 28px;
+}
+
+.backgroud1{
+	background-image: radial-gradient(#2B2B2B, #1D1D1D, #161616);
+}
+
+.ajuste{
+	margin-left: 4%;
+	margin-right: 4%;
+	border-radius: 3px;
+}
+
+#branco{
+	color: white;
+}
+
+.texto1{
+	margin-top: 12%;
+	padding-left: 5%;
+}
+
+h2 {
+	font-size: 1rem;
+    margin: 0;
+}
+
+.devices {
+	width: 90%;
+	margin-left:0%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.botaocard1{
+	background-color: #E50914;
+	color: white;
+	border:none;
+	font-size: 200%;
+	border-radius: 3px;
+	margin-top: 3%
+}
+
+.download{
+	width: 90%;
+	margin-left:3%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.botaocard2{
+	background-color: Transparent;
+	color: white;
+	border: 1px solid white;
+	border-radius: 3px;
+	font-size: 200%;
+	margin-top: 4%;
+}
+
+.texto2{
+	margin-top: 15%;
+	padding-left: 5%;
+}
+
+.backgroud2{
+	background: rgba(0,0,0,0.8);
+	background-image: url(../img/fundonetflix.jpg);
+	padding-left: 25%;
+}
+
+.alinhamento3{
+	margin-top: 24%;
+	margin-bottom: 6%;
+}
+
+.rodape{
+	margin-top: 2%; 
+	margin-left: 1%; 
+	color: gray;
+	padding-bottom: 15%;
+}
+
+.login{
+	background-color: rgba(0,0,0,0.8);
+	opacity: 70%;
+	color: white;
+	padding-left: 65px;
+	padding-right: 65px;
+}
+
+.form{
+	background-color: rgb(69,69,69,0.8);
+	border: none;
+}
+
+.botaologin{
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 130px;
+	padding-right: 130px;
+}
+
+.linksemnada{
+	color: white;
+	text-decoration: none;
+	padding-bottom: 30px
+}
+
+.qassiste{
+	font-size: 3.5vw;
+	color: white;
+	margin-top: 4%;
+}
+
+.tst {
+    border: .3em solid rgba(0,0,0,.4);
+    background-size: cover;
+    background-color: #333;
+}
+
+.tst:hover{
+	border:solid white 2px;
+}
+	
+
+.botaominhalista{
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: rgba(128,128,128,0.5);
+	border: none;
+	color: white;
+}
+
+.botaominhalista:hover{
+	background-color: white;
+	color: black;	
+}
